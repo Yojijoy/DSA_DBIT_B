@@ -1,0 +1,6 @@
+stack = Stack()
+stack.push(4)
+stack.push(5)
+print("Top of stack:", k.peek())
+print("Popped:", k.pop())
+print("Is empty?", k.is_empty())
